@@ -3,6 +3,7 @@
 
 ![banner git](https://github.com/PlueciToT/PlueciToT/assets/129394494/ae050db2-a5c0-40be-aeb4-fee9c652a5a6)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ncalderonh&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **PlueciToT/PlueciToT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
