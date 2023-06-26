@@ -6,6 +6,7 @@ print("Hello, world!")
 class FullStackPythonTrainee:
     def __init__(self)
         self.name = "Nicolas Calderon"
+        self.about = ["Vegan", 1989, "Buddhism", "Meditation", "Health", "Nature"]
         self.role = "Full Stack Python Trainee in progress" 
         self.lenguage_spoken = ["es_CL", "en_US"]
         
