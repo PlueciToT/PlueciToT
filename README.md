@@ -3,7 +3,7 @@
 print("Hello, world!")
 # coding: utf-8
 
-class FullStackPythonTrainee:
+class FullStackPythonTrainee(self, *args, **kwargs):
     def __init__(self)
         self.name = "Nicolas Calderon"
         self.about = ["Vegan", 1989, "Buddhism", "Meditation", "Health", "Nature"]
