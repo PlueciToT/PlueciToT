@@ -1,10 +1,21 @@
 ![banner git](https://github.com/PlueciToT/PlueciToT/assets/129394494/ae050db2-a5c0-40be-aeb4-fee9c652a5a6)
-```py
-print(Hello, world!)
-    my name is { Nicolas Calderon
+```python
+print("Hello, world!")
+# coding: utf-8
 
-}
+class FullStackPythonTrainee:
+    def __init__(self)
+        self.name = "Nicolas Calderon"
+        self.role = "Full Stack Python Trainee in progress" 
+        self.lenguage_spoken = ["es_CL", "en_US"]
+        
+     def ToolsAndLenguages(self)
+         lenguages = ["Python", "HTML", "CSS", "Javascripts", "SQL"]
+         tools = ["VS Code", "PostgreSQL", "Notion", "Jira", "WordPress", 
+                  "Bootstrap", "Photoshop", "DBeaver", "SQLite", "GitHub"]
 
+    def say_hi(self)
+        print("Thank you for your visit, I'm a bootcamp student. I like programming")
 ```
 # Under construction 🚧
 ### Hi there 👋
