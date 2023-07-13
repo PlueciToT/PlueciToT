@@ -19,7 +19,7 @@ class FullStackPythonTrainee(self, *args, **kwargs):
     def say_hi(self)
         print("Thank you for your visit, I'm a bootcamp student. I like programming")
 ```
-# Under construction 🚧
+
 ### Hi there 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/ncalderonh?style=for-the-badge&logo=twitter&logoColor=FFDE00&labelColor=660300&color=FFDE00)  ![Twitch Status](https://img.shields.io/twitch/status/PlueciToT?style=for-the-badge&logo=twitch&logoColor=FFDE00&labelColor=660300&color=FFDE00)  ![GitHub followers](https://img.shields.io/github/followers/ncalderonh?style=for-the-badge&logo=github&logoColor=FFDE00&labelColor=660300&color=FFDE00)
 
@@ -27,7 +27,7 @@ class FullStackPythonTrainee(self, *args, **kwargs):
 
 <!--
 **PlueciToT/PlueciToT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# Under construction 🚧
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
