@@ -13,6 +13,11 @@ class FullStackPythonTrainee(self, *args, **kwargs):
         self.about = ["Vegan", 1989, "Buddhism", "Meditation", "Health", "Nature"]
         self.role = "Full Stack Python & Javascript Trainee" 
         self.lenguage_spoken = ["es_CL", "en_US"]
+        self.contact = {
+            "email": "nicolash.calderon@gmail.com",
+            "github": "https://github.com/ncalderonh",
+            "linkedin": "https://www.linkedin.com/in/nicolás-calderón-h/"
+        }
         
      def ToolsAndLenguages(self)
          lenguages = ["Python", "HTML", "CSS", "Javascripts", "SQL"]
@@ -23,7 +28,6 @@ class FullStackPythonTrainee(self, *args, **kwargs):
         print("Thank you for your visit, I'm a bootcamp student. I like programming")
 ```
 
-Contact me: calderonhernandez.nicolas@gmail.com
 
 ### Hi there 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/ncalderonh?style=for-the-badge&logo=twitter&logoColor=FFDE00&labelColor=660300&color=FFDE00)  ![Twitch Status](https://img.shields.io/twitch/status/PlueciToT?style=for-the-badge&logo=twitch&logoColor=FFDE00&labelColor=660300&color=FFDE00)  ![GitHub followers](https://img.shields.io/github/followers/ncalderonh?style=for-the-badge&logo=github&logoColor=FFDE00&labelColor=660300&color=FFDE00)
