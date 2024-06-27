@@ -14,9 +14,9 @@ class FullStackPythonTrainee(self, *args, **kwargs):
         self.role = "Full Stack Python & Javascript Trainee" 
         self.lenguage_spoken = ["es_CL", "en_US"]
         self.contact = {
-            "email": "nicolash.calderon@gmail.com",
+            "email": "calderonhernandez.nicolas@gmail.com",
             "github": "https://github.com/ncalderonh",
-            "linkedin": "https://www.linkedin.com/in/nicolás-calderón-h/"
+            "linkedin": "https://www.linkedin.com/in/nicolascalderonh/"
         }
         
      def ToolsAndLenguages(self)
