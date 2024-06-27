@@ -7,18 +7,23 @@ print("Hello, world!")
 class FullStackPythonTrainee(self, *args, **kwargs):
     def __init__(self)
         self.name = "Nicolas Calderon"
+        self.from = "Chile"
+        self.occupation = "receptionist"
+        self.studies = "hospitality (unfinished)"
         self.about = ["Vegan", 1989, "Buddhism", "Meditation", "Health", "Nature"]
-        self.role = "Full Stack Python Trainee in progress" 
+        self.role = "Full Stack Python & Javascript Trainee" 
         self.lenguage_spoken = ["es_CL", "en_US"]
         
      def ToolsAndLenguages(self)
          lenguages = ["Python", "HTML", "CSS", "Javascripts", "SQL"]
          tools = ["VS Code", "PostgreSQL", "Notion", "Jira", "WordPress", 
-                  "Bootstrap", "Photoshop", "DBeaver", "SQLite", "GitHub"]
+                  "Bootstrap", "Photoshop", "DBeaver", "SQLite", "GitHub", "express", "nodeJS", ".env", "tokens"]
 
     def say_hi(self)
         print("Thank you for your visit, I'm a bootcamp student. I like programming")
 ```
+
+Contact me: calderonhernandez.nicolas@gmail.com
 
 ### Hi there 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/ncalderonh?style=for-the-badge&logo=twitter&logoColor=FFDE00&labelColor=660300&color=FFDE00)  ![Twitch Status](https://img.shields.io/twitch/status/PlueciToT?style=for-the-badge&logo=twitch&logoColor=FFDE00&labelColor=660300&color=FFDE00)  ![GitHub followers](https://img.shields.io/github/followers/ncalderonh?style=for-the-badge&logo=github&logoColor=FFDE00&labelColor=660300&color=FFDE00)
